@@ -12,7 +12,7 @@ This repository serves as the hub for all my work related to the Goldilocks proj
 
 2. **Canal Simulation**  
    - [Canal Simulation Repository](https://github.com/jleto6/canal-sim)  
-   Models Panama Canal lock operations, ship displacement, and water flow with and without bladder systems.
+   Models Panama Canal lock operations, ship displacement, and water flow.
 
 3. **Panama Canal Data**  
    - [Panama Canal Data Repository](https://github.com/jleto6/panama-canal-data)  
