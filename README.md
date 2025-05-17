@@ -1,6 +1,6 @@
 # Goldilocks
 
-Goldilocks is a DoD-sponsored project developed under University of Central Florida’s Entrepreneurship for Defense program, in collaboration with SOUTHCOM, Defense Innovation Unit, and a multidisciplinary student team, to research freshwater conservation in the Panama Canal.
+Goldilocks is a Department of Defsense sponsored project developed under University of Central Florida’s Entrepreneurship for Defense program, in collaboration with SOUTHCOM, Defense Innovation Unit, and a multidisciplinary student team, to research freshwater conservation in the Panama Canal.
 
 This repository serves as the hub for my work related to the Goldilocks project. Linked below are tools for data analysis and interactive simulations in Unity with C#.
 
