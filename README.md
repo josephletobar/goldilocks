@@ -1,19 +1,16 @@
 # Goldilocks
 
-Goldilocks is a DoD-sponsored project developed under UCF’s E4D program, in collaboration with SOUTHCOM, DIU, and a multidisciplinary student team. The project focuses on freshwater conservation in the Panama Canal by simulating fluid-filled bladder systems and modeling their impact on water displacement and transit efficiency.
+Goldilocks is a DoD-sponsored project developed under University of Central Florida’s Entrepreneurship for Defense program, in collaboration with SOUTHCOM, Defense Innovation Unit, and a multidisciplinary student team, to research freshwater conservation in the Panama Canal.
 
-This repository serves as the hub for all my work related to the Goldilocks project. Linked below are subprojects focused on system simulations, physics modeling, and Panama Canal data analysis.
+This repository serves as the hub for my work related to the Goldilocks project. Linked below are tools for data analysis and interactive simulations in Unity with C#.
 
-## Related Projects
+## Tools
 
-1. **Bladder Simulation**  
-   - [Bladder Simulation Repository](https://github.com/jleto6/bladder-sim)  
-   Simulates fluid-filled bladders inside canal locks to evaluate their effect on water displacement and conservation.
-
-2. **Canal Simulation**  
-   - [Canal Simulation Repository](https://github.com/jleto6/canal-sim)  
-   Models Panama Canal lock operations, ship displacement, and water flow.
-
-3. **Panama Canal Data**  
+1. **Panama Canal Displacement Analysis**  
    - [Panama Canal Data Repository](https://github.com/jleto6/panama-canal-data)  
-   Contains reference data for simulations, including transit logs, ship profiles, and water usage estimates.
+   Research tool analyzing how ship displacement affects water efficiency in Panama Canal lock cycles. Includes calculations and visualizations showing how small vessels lead to increased water waste and how batching improves efficiency.
+
+1. **Unity Simulation Tools**
+   - [Canal Simulation Repository](https://github.com/jleto6/canal-sim)  
+   - [Bladder Simulation Repository](https://github.com/jleto6/bladder-sim)  
+
