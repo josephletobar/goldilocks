@@ -9,8 +9,9 @@ This repository serves as the central hub for my contributions to the Goldilocks
 ## Tools
 
 ### 1. Panama Canal Displacement Analysis
+A Python tool that models freshwater efficiency in Panama Canal lock operations. It uses NumPy-based calculations to estimate displacement, water usage, and per-cycle costs for Panamax and Neopanamax transits, and includes a greedy scheduling algorithm that batches smaller ships into shared lock cycles. Results are visualized in Jupyter notebooks with Matplotlib charts, allowing quick comparison of water loss, savings, and efficiency under different operational strategies.
+
 [**Panama Canal Data Repository**](https://github.com/jleto6/panama-canal-data)  
-Research tool analyzing how ship displacement affects water efficiency in Panama Canal lock cycles. Includes calculations and visualizations demonstrating how smaller vessels lead to higher water waste and how batching improves efficiency.
 
 ---
 
