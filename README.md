@@ -9,12 +9,12 @@ This repository serves as the hub for my work related to the Goldilocks project.
 1. **Panama Canal Displacement Analysis**  
    - [Panama Canal Data Repository](https://github.com/jleto6/panama-canal-data) - Research tool analyzing how ship displacement affects water efficiency in Panama Canal lock cycles. Includes calculations and visualizations showing how small vessels lead to increased water waste and how batching improves efficiency.
 
-1. **Unity Simulation Tools**
-   - Canal Simulation
-     ![Panama Canal Simulation Demo](canalsim.gif)
-     > [View the source code](https://github.com/jleto6/canal-sim)
-     
-   
-   - Bladder Simulation
-   - > [View the source code](https://github.com/jleto6/bladder-sim)
+2. **Canal Simulation Tool**
+  ![Panama Canal Simulation Demo](canalsim.gif)
+  > [View the source code](https://github.com/jleto6/canal-sim)
+
+
+3. **Bladder Simulation Tool**
+
+   > [View the source code](https://github.com/jleto6/bladder-sim)
 
