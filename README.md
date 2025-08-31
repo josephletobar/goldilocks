@@ -1,32 +1,44 @@
 # Goldilocks
 
-Goldilocks is a Department of Defense–sponsored project developed under the University of Central Florida’s **Entrepreneurship for Defense** course, in collaboration with SOUTHCOM, the Defense Innovation Unit (DIU), and a multidisciplinary student engineering team. The project focused on freshwater conservation in the Panama Canal. 
+Goldilocks is a **Department of Defense**–sponsored project developed under the University of Central Florida’s Entrepreneurship for Defense course, in collaboration with SOUTHCOM, the Defense Innovation Unit (DIU), and a multidisciplinary student engineering team. The project focused on freshwater conservation in the Panama Canal. 
 
 This repository serves as the central hub for my contributions to the Goldilocks project.
 
 ---
 
-### Panama Canal Displacement Analysis
-A Python tool that models freshwater efficiency in Panama Canal lock operations. It uses NumPy-based calculations to estimate displacement, water usage, and per-cycle costs for Panamax and Neopanamax transits, and includes a greedy scheduling algorithm that batches smaller ships into shared lock cycles. Results are visualized in Jupyter notebooks with Matplotlib charts, allowing quick comparison of water loss, savings, and efficiency under different operational strategies.
-
+### 1. Panama Canal Displacement Analysis
 [**Panama Canal Data Repository**](https://github.com/jleto6/panama-canal-data)  
 
+A Python-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
+
+**Features**  
+- Estimates water usage per transit for Panamax and Neopanamax locks.  
+- Calculates displacement, water loss, and per-cycle costs using **NumPy**.  
+- Implements a **greedy scheduling algorithm** to batch smaller ships into shared lock cycles.  
+- Produces visualizations of water loss, savings, and efficiency tradeoffs with **Jupyter + Matplotlib**.  
+
 ---
 
-### Bladder Simulation Tool
-A Unity-based simulation that visualizes a bladder-inspired water retention concept.  
-This tool was built in response to a request from a Department of Defense sponsor, who asked the team to explore the feasibility of a bladder-inspired mechanism for reducing freshwater loss in canal operations.
-
+### 2. Bladder Simulation Tool
 ![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
-<sub>[View source code](https://github.com/josephletobar/bladder-sim)</sub>
+<sub>[View source code](https://github.com/josephletobar/bladder-sim)</sub>  
+
+A Unity **C#** simulation that visualizes a bladder-inspired water retention concept.  
+This tool was built in response to a request from a Department of Defense sponsor, who asked the team to explore the feasibility of an inflatable bladder mechanism for reducing freshwater loss in canal operations. 
+
+**Features**  
+- Models bladder expansion and contraction in canal lock.  
+- Demonstrates power consumption and time delays under different operation scenarios.  
 
 ---
 
-### Canal Simulation Tool
-A lightweight Unity simulation of the Panama Canal’s lock and lake system.  
-It visually models ship movement, water flow, and elevation changes with simplified mechanics.  
-The tool illustrates ship transit through locks, elevation shifts, and Gatun Lake’s role as a freshwater reservoir.  
-It is designed for conceptual understanding rather than physical-scale accuracy, supporting stakeholder communication with a clear, high-level view of canal function.
-
+### 3. Canal Simulation Tool
 ![Panama Canal Simulation Demo](canalsim.gif)  
-<sub>[View source code](https://github.com/josephletobar/canal-sim)</sub>
+<sub>[View source code](https://github.com/josephletobar/canal-sim)</sub>  
+
+A lightweight Unity **C#** simulation of the Panama Canal’s lock and lake system. Designed for conceptual understanding rather than physical-scale accuracy, supporting stakeholder communication.
+
+**Features**  
+- Visualizes ship movement, water flow, and lock elevation changes.  
+- Illustrates Gatun Lake’s role as a freshwater reservoir.  
+- Demonstrates lock operations with simplified mechanics for clarity.  
