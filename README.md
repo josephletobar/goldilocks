@@ -6,7 +6,7 @@ This repository serves as the central hub for my contributions to the Goldilocks
 
 ---
 
-### 1. Panama Canal Displacement Analysis
+### Panama Canal Displacement Analysis
 [**Panama Canal Data Repository**](https://github.com/jleto6/panama-canal-data)  
 
 A **Python**-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
@@ -19,7 +19,7 @@ A **Python**-based tool for modeling freshwater efficiency in Panama Canal lock 
 
 ---
 
-### 2. Bladder Simulation Tool
+### Bladder Simulation Tool
 ![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
 <sub>[View source code](https://github.com/josephletobar/bladder-sim)</sub>  
 
@@ -32,7 +32,7 @@ This tool was built in response to a request from a Department of Defense sponso
 
 ---
 
-### 3. Canal Simulation Tool
+### Canal Simulation Tool
 ![Panama Canal Simulation Demo](canalsim.gif)  
 <sub>[View source code](https://github.com/josephletobar/canal-sim)</sub>  
 
