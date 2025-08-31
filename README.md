@@ -15,11 +15,19 @@ Research tool analyzing how ship displacement affects water efficiency in Panama
 ---
 
 ### 2. Bladder Simulation Tool
+A Unity-based simulation that visualizes a bladder-inspired water retention concept.  
+This tool was built in response to a request from a Department of Defense sponsor, who asked the team to explore the feasibility of a bladder-inspired mechanism for reducing freshwater loss in canal operations.
+
 ![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
-<sub>[View source code](https://github.com/jleto6/bladder-sim)</sub>
+<sub>[View source code](https://github.com/josephletobar/bladder-sim)</sub>
 
 ---
 
 ### 3. Canal Simulation Tool
+A lightweight Unity simulation of the Panama Canal’s lock and lake system.  
+It visually models ship movement, water flow, and elevation changes with simplified mechanics.  
+The tool illustrates ship transit through locks, elevation shifts, and Gatun Lake’s role as a freshwater reservoir.  
+It is designed for conceptual understanding rather than physical-scale accuracy, supporting stakeholder communication with a clear, high-level view of canal function.
+
 ![Panama Canal Simulation Demo](canalsim.gif)  
-<sub>[View source code](https://github.com/yourusername/panama-canal-sim)</sub>
+<sub>[View source code](https://github.com/josephletobar/canal-sim)</sub>
