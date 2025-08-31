@@ -11,7 +11,7 @@ This repository serves as the hub for my work related to the Goldilocks project.
 
 1. **Canal Simulation Tool**
 
-![Panama Canal Simulation Demo](demo.gif)  
+![Panama Canal Simulation Demo](canalsim.gif)  
 
 *Source code available [here](https://github.com/yourusername/panama-canal-sim).*
 
