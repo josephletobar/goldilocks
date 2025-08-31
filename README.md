@@ -14,14 +14,12 @@ Research tool analyzing how ship displacement affects water efficiency in Panama
 
 ---
 
-### 2. Canal Simulation Tool
-![Panama Canal Simulation Demo](canalsim.gif)  
-
-*Source code available [here](https://github.com/yourusername/panama-canal-sim).*
+### 2. Bladder Simulation Tool
+![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
+<sub>[View source code](https://github.com/jleto6/bladder-sim)</sub>
 
 ---
 
-### 3. Bladder Simulation Tool
-![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
-
-*Source code available [here](https://github.com/jleto6/bladder-sim).*
+### 3. Canal Simulation Tool
+![Panama Canal Simulation Demo](canalsim.gif)  
+<sub>[View source code](https://github.com/yourusername/panama-canal-sim)</sub>
