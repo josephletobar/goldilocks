@@ -7,7 +7,7 @@ This repository serves as the central hub for my contributions to the Goldilocks
 ---
 
 ### Panama Canal Data Analysis
-[**Panama Canal Data Repository**](https://github.com/jleto6/panama-canal-data)  
+[**View Source Code**](https://github.com/jleto6/panama-canal-data)  
 
 A **Python**-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
 
