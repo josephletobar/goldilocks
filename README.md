@@ -9,7 +9,7 @@ This repository serves as the central hub for my contributions to the Goldilocks
 ### 1. Panama Canal Displacement Analysis
 [**Panama Canal Data Repository**](https://github.com/jleto6/panama-canal-data)  
 
-A Python-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
+A **Python**-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
 
 **Features**  
 - Estimates water usage per transit for Panamax and Neopanamax locks.  
@@ -23,7 +23,7 @@ A Python-based tool for modeling freshwater efficiency in Panama Canal lock oper
 ![Panama Canal Bladder Simulation Demo](bladdersim.gif)  
 <sub>[View source code](https://github.com/josephletobar/bladder-sim)</sub>  
 
-A Unity **C#** simulation that visualizes a bladder-inspired water retention concept.  
+A **C#** Unity simulation that visualizes a bladder-inspired water retention concept.  
 This tool was built in response to a request from a Department of Defense sponsor, who asked the team to explore the feasibility of an inflatable bladder mechanism for reducing freshwater loss in canal operations. 
 
 **Features**  
@@ -36,7 +36,7 @@ This tool was built in response to a request from a Department of Defense sponso
 ![Panama Canal Simulation Demo](canalsim.gif)  
 <sub>[View source code](https://github.com/josephletobar/canal-sim)</sub>  
 
-A lightweight Unity **C#** simulation of the Panama Canal’s lock and lake system. Designed for conceptual understanding rather than physical-scale accuracy, supporting stakeholder communication.
+A lightweight **C#** Unity simulation of the Panama Canal’s lock and lake system. Designed for conceptual understanding rather than physical-scale accuracy, supporting stakeholder communication.
 
 **Features**  
 - Visualizes ship movement, water flow, and lock elevation changes.  
