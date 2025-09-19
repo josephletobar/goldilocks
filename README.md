@@ -8,7 +8,7 @@ This repository serves as the central hub for my contributions to the Goldilocks
 
 ### Panama Canal Data Analysis
 
-### [View the Notebook](https://nbviewer.org/github/josephletobar/panama-canal-data/blob/main/canal_data.ipynb)
+### [View the Notebook](https://nbviewer.org/github/josephletobar/panama-canal-data/blob/main/canal_data.ipynb)  
 <sub>[View source code](https://github.com/josephletobar/panama-canal-data/blob/main/canal_data.ipynb)</sub>
 
 A **Python**-based tool for modeling freshwater efficiency in Panama Canal lock operations.  
