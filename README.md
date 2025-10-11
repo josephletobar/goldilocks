@@ -1,6 +1,6 @@
 # Goldilocks
 
-Goldilocks is a **Department of Defense–sponsored** project developed through the University of Central Florida’s \href{https://www.cecs.ucf.edu/e4d/}{Entrepreneurship for Defense course}, a DoD initiative run in partnership with the **National Security Innovation Network (NSIN)**. Conducted in collaboration with **U.S. Southern Command (SOUTHCOM)**, the **Defense Innovation Unit (DIU)**, and a multidisciplinary student engineering team, the project focused on freshwater conservation in the **Panama Canal**.
+Goldilocks is a **Department of Defense–sponsored** project developed through the University of Central Florida’s [Entrepreneurship for Defense course](https://www.cecs.ucf.edu/e4d/), a DoD initiative run in partnership with the **National Security Innovation Network (NSIN)**. Conducted in collaboration with **U.S. Southern Command (SOUTHCOM)**, the **Defense Innovation Unit (DIU)**, and a multidisciplinary student engineering team, the project focused on freshwater conservation in the **Panama Canal**.
 
 This repository serves as the central hub for my contributions to the Goldilocks project.
 
